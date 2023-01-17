@@ -28,6 +28,6 @@ Este repositório foi criado para fins de estudo. Se te ajudei de alguma forma, 
 ##
 Feito com ❤️ por Vexliza.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vithoria%20Priebe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vithoriapriebe)](www.linkedin.com/in/vithoriapriebe)
+[![Linkedin Badge](https://img.shields.io/badge/-Vithoria%20Priebe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vithoriapriebe)](https://www.linkedin.com/in/vithoriapriebe)
 [![Gmail Badge](https://img.shields.io/badge/-priebevithoria@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:priebevithoria@gmail.com)](mailto:priebevithoria@gmail.com)
 

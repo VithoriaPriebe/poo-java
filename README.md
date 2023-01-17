@@ -8,18 +8,18 @@
 </p>
 
 ## Descrição
-> Este projeto é uma coleção de meus estudos e exercícios sobre programação orientada a objetos em Java. 
+Este projeto é uma coleção de meus estudos e exercícios sobre programação orientada a objetos em Java. 
 O material abordado inclui conceitos como classes, objetos, herança, polimorfismo, encapsulamento e muito mais.
 Os estudos são conduzidos na plataforma de aprendizado on-line Alura e também por meio de disciplinas na universidade (UFSM).
 O repositório contém vários exemplos e exercícios para ajudar a solidificar minha compreensão desses conceitos e suas aplicações práticas.
 
 ## ✔️ Pré-requisitos e tecnologias utilizadas
 
-- ``Java JDK 8+ (Usarei JDK 17)``
-- ``IDE para desenvolvimento Java (Usarei o Eclipse)``
-- ``O básico sobre Git e GitHub``
-- ``Sintáxe básica Java``
-- ``Noção acerca de POO``
+- Java JDK 8+ (Usarei JDK 17)
+- IDE para desenvolvimento Java (Usarei o Eclipse)
+- O básico sobre Git e GitHub
+- Sintáxe básica Java
+- Noção acerca de POO
 
 ## Contribuindo
 

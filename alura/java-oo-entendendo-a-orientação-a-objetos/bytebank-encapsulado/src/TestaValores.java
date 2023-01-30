@@ -11,7 +11,7 @@ public class TestaValores {
 		Conta conta2 = new Conta(1337, 16549);
 		System.out.println(conta2.getAgencia());
 		
-		System.out.println(Conta.getTotal());
+		System.out.println("O total de contas é: " + Conta.getTotal());
 		
 	}
 }
